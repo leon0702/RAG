@@ -49,7 +49,7 @@ To use the provided Jupyter notebook, open the file in your preferred notebook e
 
 - **Generated Responses**: Outputs contextually accurate answers to user queries.
 - **Processed Files**: Stores converted `.txt` files in the directory, ready for analysis or RAG processing.
-
+- **nke-10k-2023.txt**: The txt file generated through this process contains plain text extracted from first ten pages of the PDF document . This file is stored in the designated directory and is ready for analysis or integration into RAG workflows. It provides easily accessible text data that simplifies downstream tasks like search, retrieval, and question-answering.
 ## License
 
 This project is licensed under the MIT License.
